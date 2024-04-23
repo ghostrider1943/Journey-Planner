@@ -1,4 +1,3 @@
-// Online C++ compiler to run C++ program online
 #include <iostream>
 #include <bits/stdc++.h>
 #include <limits.h>
@@ -192,5 +191,6 @@ int main() {
         cout<<"Do you want to get the shortest path between your source and destination?";
         cin>>prompt;
     }
+    cout<<endl<<"Thanks for using our application."<<endl;
     return 0;
 }
