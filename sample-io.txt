@@ -20,5 +20,7 @@ The number of stops will be 4.
 The path will be: 
 Bhubaneswar Railway Station -> Lingaraj Temple -> Dhauli Shanti Stupa -> Odisha State Museum -> Kalinga Stadium -> Ekamra Kanan Botanical Gardens.
 
-Do you want to get the shortest path between your source and destination?
-=== Session Ended. Please Run the code again ===
+Do you want to get the shortest path between your source and destination? N
+
+Thanks for using our application.
+
