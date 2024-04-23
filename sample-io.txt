@@ -14,13 +14,12 @@ Rajarani Temple
 ----------------------------------------------------------------------
 Do you want to get the shortest path between your source and destination? Type Y or y to proceed : y
 Enter source location bhubaneswar railway station
-Enter destination location Ekamra Kanan Botanical Gardens
+Enter destination location Ekamra kanan botanical gardens
 The total distance that has to be travelled is 33.5 kms. 
 The number of stops will be 4. 
 The path will be: 
 Bhubaneswar Railway Station -> Lingaraj Temple -> Dhauli Shanti Stupa -> Odisha State Museum -> Kalinga Stadium -> Ekamra Kanan Botanical Gardens.
 
-Do you want to get the shortest path between your source and destination? N
+Do you want to get the shortest path between your source and destination? nn
 
 Thanks for using our application.
-
