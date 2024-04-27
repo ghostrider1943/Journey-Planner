@@ -6,15 +6,19 @@ Implemented within a limited timeframe, this project showcases the application o
 
 <br>
 #To run the application, run the following commands
-
+<br><br>
 #Creating objects
+<br>
 g++ -c travelplanner.cpp 
-
+<br><br>
 #Creating library
+<br>
 ar ru travelplanner_library.a travelplanner.o  
-
+<br><br>
 #Client
+<br>
 g++ -o client client.cpp travelplanner_library.a  
-
+<br><br>
 #Running client
+<br>
 ./client 
