@@ -2,7 +2,7 @@
 
 This is a DSA project that implements a modified Dijkstra's algorithm in C++, and a Singleton design pattern to create a travel planner for Bhubaneswar. 
 <br>
-# Problem statement
+# Problem statement:
 Navigating a city’s tourist attractions efficiently can enhance the travel experience for visitors. In a city with numerous famous spots, finding the shortest path and minimizing the number of stops between these locations can be challenging. This project aims to simplify this task by developing an algorithm that determines the optimal route between selected tourist spots.
 
 # Solution
